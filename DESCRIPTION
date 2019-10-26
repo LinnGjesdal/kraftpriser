@@ -13,3 +13,8 @@ Encoding: UTF-8
 LazyData: true
 Suggests: 
     testthat
+Imports: 
+    dplyr,
+    pacman,
+    httr,
+    jsonlite
