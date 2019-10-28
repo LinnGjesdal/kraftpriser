@@ -12,6 +12,7 @@
 #' @export
 #'
 #' @examples
+#' Loading data from api
 use_api <- function() {
   pacman::p_load(httr, jsonlite, dplyr)
   my_url <- paste0("https://www.nve.no/umbraco/api/Powerplant/GetHydroPowerPlantsInOperation")
