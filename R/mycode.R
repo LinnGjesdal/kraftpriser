@@ -1,4 +1,4 @@
-# First function goes here
+# Home Exercises Session 3 R course
 
 # use Ctrl + Shift + L to avoid storing the package in the global environment
 
@@ -21,13 +21,6 @@ use_api <- function() {
 
 }
 #' @examples
-
-
-
-
-
-
-
 
 
 

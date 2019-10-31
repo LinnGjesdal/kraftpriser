@@ -1,6 +1,6 @@
 # Tests
 
-# We need to test the function that loads the data from the api
+# We need to test the function that loads the data from the api to a data frame
 
 context("test the data load from the api and onto the data frame")
 

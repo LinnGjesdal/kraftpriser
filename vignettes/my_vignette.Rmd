@@ -17,3 +17,13 @@ knitr::opts_chunk$set(
 ```{r setup}
 library(kraftpriser)
 ```
+
+```{r documentation}
+
+# This vignette was created as part of the home exersises in the R course, where the topic was packages.
+
+# I have created a package that is used to load data through an API to Norges vassdrags- og energidirektorat (NVE), and then the data is used to create a data frame that complies data for hydro power production per power station.
+
+# Further, the package uses simple tests to control that the data loads to the data frame with the correct dimensions and variable types.
+
+```
