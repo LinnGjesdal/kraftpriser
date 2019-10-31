@@ -12,10 +12,13 @@ License: What license it uses
 Encoding: UTF-8
 LazyData: true
 Suggests: 
-    testthat
+    testthat,
+    knitr,
+    rmarkdown
 Imports: 
     dplyr,
     pacman,
     httr,
     jsonlite
 RoxygenNote: 6.1.1
+VignetteBuilder: knitr
